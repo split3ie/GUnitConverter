@@ -2,14 +2,14 @@
 Convert metrics to game's dimensions
 Currently supported games: 
 
-  - Counter-Strike: GLob
+  - Counter-Strike: Global Offensive
 
 ## Hammer Unit Converter 
+I originally made this tool for personal use while working on a CS:GO map based on a real location (you can see the map on the ![Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=857973374)
+).
 
-This tool I have made for personal using when I worked on CS:GO map based by real location (You can see this map in workshop https://steamcommunity.com/sharedfiles/filedetails/?id=857973374)
-
-With this tool you can easily convert dimensions from Hammer SDK Unit to Cm, M, Inches, Feet and vice versa.
-I don't know if this tool will be useful for someone but if it will - I surelly be happy.
+With this tool, you can easily convert dimensions between Hammer SDK units and centimeters, meters, inches, or feet — and vice versa.
+I don’t know if this tool will be useful to others, but if it is, I’ll be very happy.
 
 ### Main window
 
@@ -21,8 +21,8 @@ I don't know if this tool will be useful for someone but if it will - I surelly 
 
 #### Options:
 
-* Convertion dimensions;
+* Conversion dimensions;
 * View history;
 * Save history to file;
 
-Feel free to PM me if you have any questions or proposes.
+Feel free to PM me if you have any questions or suggestions.
